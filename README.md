@@ -10,7 +10,7 @@ This repository contains the project files, source code, and assets for my gradu
 
 ## Features
 
-_Add a short list of your game's main features here (for example, gameplay mechanics, levels, or objectives)._
+
 
 ## Getting Started
 
